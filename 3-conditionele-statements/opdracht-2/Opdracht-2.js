@@ -1,1 +1,3 @@
-function maximum(a, b, c) {}
+function maximum(a, b, c) {
+  return Math.max(a, b, c);
+}
