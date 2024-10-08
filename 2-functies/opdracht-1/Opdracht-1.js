@@ -1,1 +1,1 @@
-function vermenigvuldig() {}
+function vermenigvuldig(x, y) {}
