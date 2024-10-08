@@ -1,1 +1,3 @@
-function vermenigvuldig(x, y) {}
+function vermenigvuldig(x, y) {
+  return x * y;
+}
