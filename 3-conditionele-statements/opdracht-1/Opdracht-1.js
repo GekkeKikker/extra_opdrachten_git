@@ -1,1 +1,1 @@
-function groet() {}
+function groet(tijd) {}
