@@ -3,5 +3,7 @@ function groet(tijd) {
     console.log("Goedemorgen");
   } else if (tijd >= 12 && tijd < 18) {
     console.log("Goedemiddag");
+  } else if (tijd >= 18) {
+    console.log("Goedenavond");
   }
 }
