@@ -1,1 +1,1 @@
-function isEven() {}
+function isEven(getal) {}
