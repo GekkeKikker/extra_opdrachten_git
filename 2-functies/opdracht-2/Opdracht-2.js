@@ -5,3 +5,6 @@ function isEven(getal) {
     return false;
   }
 }
+
+console.log(isEven(4));
+console.log(isEven(5));
