@@ -1,1 +1,1 @@
-function maximum() {}
+function maximum(a, b, c) {}
